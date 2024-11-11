@@ -5,14 +5,16 @@
 ---
 
 ## 📫 Contact Information
-- **Email**: [imrranulhassan3296@gmail.com](mailto:imrranulhassan3296@gmail.com)
-- **GitHub**: [Imranul-hassan](https://github.com/Imranul-hassan)
-- **LinkedIn**: [Mohammad Imranul Hassan Akib](https://www.linkedin.com/in/mohammad-imranul-hassan-akib-73a510245/)
+- **Email**: [imrranulhassan3296@gmail.com](mailto:imrranulhassan3296@gmail.com) | **Mobile**: **01869443885**
+- **LinkedIn**: [Imranul Hassan Akib](https://www.linkedin.com/in/mohammad-imranul-hassan-akib-73a510245/) | **GitHub**: [Imranul-hassan-akib](https://github.com/Imranul-hassan) 
+  
 
 ---
 
 ## 📝 Summary
 Recent Computer Science and Engineering graduate with a passion for front-end development. Skilled in creating responsive and intuitive web experiences using JavaScript, React, and modern UI frameworks. 
+
+---
 
 ## 🛠️ Skills
 - **Languages**: HTML, CSS, JavaScript, ES6
@@ -23,7 +25,9 @@ Recent Computer Science and Engineering graduate with a passion for front-end de
 
 ## 🎓 Education
 **Bachelor of Science in Computer Science and Engineering**  
-Premier University, Chittagong 
+Premier University, Chittagong
+
+**CGPA**: 3.65
 
 ---
 
