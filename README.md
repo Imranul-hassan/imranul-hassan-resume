@@ -3,7 +3,7 @@
 ## Contact Information
 - **Email**: [imranulhassan3296@gmail.com](imranulhassan3296@gmail.com)
 - **GitHub**: [github.com/Imranul-hassan](https://github.com/Imranul-hassan)
-- **LinkedIn**: [www.linkedin.com/in/mohammad-imranul-hassan-akib-73a510245](www.linkedin.com/in/mohammad-imranul-hassan-akib-73a510245)
+- **LinkedIn**: [linkedin.com/in/mohammad-imranul-hassan-akib-73a510245/](https://www.linkedin.com/in/mohammad-imranul-hassan-akib-73a510245/)
 
 ## Summary
 Front-end developer skilled in crafting responsive and user-friendly websites with a strong foundation in HTML, CSS, JavaScript (ES6), and React. Adept at leveraging modern frameworks such as Tailwind CSS and DaisyUI to create visually appealing and intuitive user interfaces. Passionate about continuous learning and improving web development skills through hands-on projects.
