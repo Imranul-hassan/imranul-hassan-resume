@@ -33,5 +33,6 @@ Premier University, Chittagong
 
 ## 📂 Projects
 - **[Gadget Heaven Platform](https://github.com/Imranul-hassan/gadget-heaven-platform)**: A structured platform for gadget purchases, featuring product categories, shopping cart, wishlist, and filtering functionality.
+- **[Player Bidding Arena](link-to-project)**: A dynamic player selection platform where users can select players, manage their coins, and track player availability, ensuring a unique team and real-time updates.
 - **[Peddy - Pet Adoption Platform](https://github.com/Imranul-hassan/pet_adoption_platform_javascript)**: A responsive platform with features like browsing pet categories, detailed pet profiles, adoption process guidance, sorting by price, and full responsiveness across all devices.
 - **[Rinterio - Interior Design Layout](https://imranul-hassan.github.io/interio-design-tailwind/)**: A static project emphasizing visual appeal and responsive design.
