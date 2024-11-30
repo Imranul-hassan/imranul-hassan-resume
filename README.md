@@ -16,10 +16,12 @@ Recent Computer Science and Engineering graduate with a passion for front-end de
 
 ---
 
-## 🛠️ Skills
-- **Languages**: HTML, CSS, JavaScript, ES6
-- **Libraries/Frameworks**: React, Tailwind CSS, Daisy UI
-- **Tools**: Git, GitHub, VS Code
+## 🛠️ Skills  
+- **Languages**: HTML, CSS, JavaScript, ES6  
+- **Libraries/Frameworks**: React, Tailwind CSS, Daisy UI, Node.js, Express.js  
+- **Databases**: MongoDB  
+- **Backend Services**: Firebase  
+- **Tools**: Git, GitHub, VS Code 
 
 ---
 
